@@ -1,5 +1,9 @@
 # Claude Code local settings
 .claude/settings.local.json
+.claude/personal.md
+
+# Local docs (not for repo)
+docs/
 
 # Dependencies
 node_modules/

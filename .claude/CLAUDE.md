@@ -1,31 +1,34 @@
 # Web Digital Human
 
-## 项目概述
+## Project Overview
 
-## 技术栈
+## Tech Stack
 
-## 架构设计
+## Architecture
 
-## 项目结构
+## Project Structure
 
-## 开发环境搭建
+## Development Setup
 
-## 环境变量
+## Environment Variables
 
-## 常用命令
+## Commands
 
-## 代码规范
+## Code Conventions
 
-## Git / 版本控制
+## Git / Version Control
 
-- **平台**: GitHub
-- **用户名**: mjj-250
-- **邮箱**: 1022603016@qq.com
-- **认证方式**: SSH（`~/.ssh/id_rsa`，已添加至 GitHub）
-- **仓库地址**: `git@github.com:mjj-250/web-digital-human.git`（待创建）
-- **本地 Git 配置**:
-  - `user.name` = 幻云
-  - `user.email` = 1022603016@qq.com
-- **分支策略**: `main` 主分支，功能开发在 `feat/*` 分支
+- **Platform**: GitHub
+- **Branch strategy**: `main` for production, `feat/*` for feature development
+- **Personal config**: see `.claude/personal.md` (not tracked by git)
 
-## 待办 / 已知问题
+## Skills & Docs
+
+Local skill documents are stored in `docs/skills/` (not tracked by git).
+Reference them here rather than pasting content directly to reduce token usage.
+
+| Skill | File |
+|-------|------|
+| — | — |
+
+## Known Issues / Todo
