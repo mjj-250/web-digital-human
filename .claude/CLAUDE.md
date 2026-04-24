@@ -1,34 +1,39 @@
 # Web Digital Human
 
-## Project Overview
+## 规范
 
-## Tech Stack
+- **文件命名**：英文
+- **内容语言**：中文
+- **文件编码**：UTF-8
 
-## Architecture
+## 项目概述
 
-## Project Structure
+## 技术栈
 
-## Development Setup
+## 架构设计
 
-## Environment Variables
+## 项目结构
 
-## Commands
+## 开发环境搭建
 
-## Code Conventions
+## 环境变量
 
-## Git / Version Control
+## 常用命令
 
-- **Platform**: GitHub
-- **Branch strategy**: `main` for production, `feat/*` for feature development
-- **Personal config**: see `.claude/personal.md` (not tracked by git)
+## 代码规范
 
-## Skills & Docs
+## Git / 版本控制
 
-Local skill documents are stored in `docs/skills/` (not tracked by git).
-Reference them here rather than pasting content directly to reduce token usage.
+- **平台**：GitHub
+- **分支策略**：`main` 主分支，功能开发在 `feat/*` 分支
+- **个人配置**：见 `.claude/personal.md`（不上传）
 
-| Skill | File |
+## Skills 与文档
+
+本地 skill 文档存放于 `docs/skills/`（不上传），在下表登记引用，避免直接粘贴内容占用 token。
+
+| Skill | 文件 |
 |-------|------|
 | — | — |
 
-## Known Issues / Todo
+## 待办 / 已知问题
